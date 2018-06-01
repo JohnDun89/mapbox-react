@@ -1,6 +1,8 @@
 import DeckGL, { LineLayer } from "deck.gl";
 import React, { Component } from "react";
 import MapGL from "react-map-gl";
+import taxiData from './data/taxi';
+
 
 // const viewport = {
 //   width: 500,
